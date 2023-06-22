@@ -2,7 +2,7 @@ lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
-  excludeLinksFromLockfile: false
+  excludeLinksFromLockfile: true
 
 overrides:
   '@auth/nextjs': 0.0.0-manual.223c6467
